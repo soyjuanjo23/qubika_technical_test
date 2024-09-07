@@ -17,6 +17,6 @@ along with this solution some sections an api's have been set under test at the 
 
 
 # To get started
-npm install 
-npm install playwright
-npx playwright test
+- npm install 
+- npm install playwright
+- npx playwright test
